@@ -1,0 +1,10 @@
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\bin\Debug\Henderson_Assignment1_Gaming.exe.config
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\bin\Debug\Henderson_Assignment1_Gaming.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\bin\Debug\Henderson_Assignment1_Gaming.pdb
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.csprojAssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.Form1.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.Properties.Resources.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\Henderson_Assignment1_Gaming\obj\Debug\Henderson_Assignment1_Gaming.pdb
